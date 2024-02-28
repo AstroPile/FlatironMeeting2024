@@ -9,7 +9,7 @@ order: 1
 
 ## Rationale
 
-The goal of this hackathon is to gather developers of the AstroPile project for focused effort on advancing this project which aims to assemble a large dataset of astronomical data to train foundation models. During this hackathon, we will focus on advancing the AstroPile project by leveraging the collective expertise and creativity of the participants.
+The goal of this invite-only hackathon is to gather developers of the AstroPile project for focused effort on advancing this project which aims to assemble a large dataset of astronomical data to train foundation models. During this hackathon, we will focus on advancing the AstroPile project by leveraging the collective expertise and creativity of the participants.
 
 The hackathon will be dedicated to hands-on coding and hacking. Participants will have the opportunity to collaborate on developing data collection pipelines, and preprocessing techniques.
 
