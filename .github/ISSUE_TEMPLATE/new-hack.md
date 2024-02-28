@@ -1,6 +1,6 @@
 ---
 name: New Hack
-about: Template to propose a new LFI Hack
+about: Template to propose a new Hack
 title: "[HACK] your hack title "
 labels: help wanted, hack project
 assignees: ''
