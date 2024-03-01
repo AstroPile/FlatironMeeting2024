@@ -52,6 +52,7 @@ Once you have created a new hack issue, be sure to list in the table below.
 
 | Project title | Suggested by | Looking for ? | Likely Participants | Day/Days |
 |---------------|--------------|---------------|---------------------|----------|
+| `$COOL_NAME` | `$YOU` | `$TOP_TALENT` | `$SPECIFIC_CANDIDATES` | `$DAYS` |
 
 
 ## Breakout tutorial sessions
@@ -62,6 +63,7 @@ Feel free to propose, or ask for sessions on particular topics in the table belo
 
 | Breakout Topic | Leader(s) | Suggested by | Interested in attending | When and Where   |
 |----------------|-----------|--------------|-------------------------|------------------|
+| `$AMAZING_TOPIC` | `$PERSONS` | `$YOU` | `$SUBGROUP_OR_NAMES` | `$CHOSEN_TIME` |
 
 
 ## Hackers
@@ -74,3 +76,4 @@ any resources you might have that may be of interests to other participants
 | Name     |   Interests |  Skills/Resources | GitHub/Gitter Handle |
 |----------|-------------|-----------|------------------|
 | Francois | Foundation models for images | HSC experience | @EiffL |
+| Micah    | Large scale representation learning | Radio imaging, hpc data pipelines | @mb010 |
