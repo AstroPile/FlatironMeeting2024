@@ -1,8 +1,8 @@
 ---
-name: New Hack
-about: Template to propose a new Hack
-title: "[HACK] your hack title "
-labels: help wanted, hack project
+name: New Data Hack
+about: Template to propose a new Hack to extend dataset
+title: "[Data] your hack title "
+labels: Data, hack project
 assignees: ''
 
 ---
