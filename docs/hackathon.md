@@ -46,13 +46,7 @@ maintain a summary table below for convenience.
 To **add a new project**, start by clicking the button below and filling out the hack template:
 
 <p align="center">
-<a href="https://github.com/AstroPile/FlatironMeeting2024/issues/new?assignees=&labels=help+wanted%2C+hack+project&template=new-hack.md&title=%5BHACK%5D+your+hack+title+" class="btn btn-info">Propose a new hack </a></p>
-
-Once you have created a new hack issue, be sure to list in the table below.
-
-| Project title | Suggested by | Looking for ? | Likely Participants | Day/Days |
-|---------------|--------------|---------------|---------------------|----------|
-| `$COOL_NAME` | `$YOU` | `$TOP_TALENT` | `$SPECIFIC_CANDIDATES` | `$DAYS` |
+<a href="https://github.com/AstroPile/FlatironMeeting2024/issues/new/choose" class="btn btn-info">Propose a new hack </a></p>
 
 
 ## Breakout tutorial sessions
