@@ -2,7 +2,7 @@
 name: New Data Hack
 about: Template to propose a new Hack to extend dataset
 title: "[Data] your hack title "
-labels: Data, hack project
+labels: Data, help wanted
 assignees: ''
 
 ---
