@@ -1,5 +1,5 @@
 ---
-name: New Data Hack
+name: New Infrastructure Hack
 about: Template to propose a new Hack on software infrastructure
 title: "[Infrastructure] your hack title "
 labels: Infrastructure, help wanted
