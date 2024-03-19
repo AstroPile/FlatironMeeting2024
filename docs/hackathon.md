@@ -72,3 +72,4 @@ any resources you might have that may be of interests to other participants
 | Francois | Foundation models for images | HSC experience | @EiffL |
 | Micah    | Large scale representation learning | Radio imaging, hpc data pipelines | @mb010 |
 | Mike (S) | "Large Observation Models" | Gen models, HPC+DL | @smith42 |
+| Tom      | Multimodal foundation models | ML models and tools applied to galaxy images/spectra | @tom-hehir |
