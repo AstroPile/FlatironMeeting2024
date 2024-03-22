@@ -12,6 +12,12 @@ The meeting will be held at the Flatiron Institute, at **162 5th Ave. New York, 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.9801918516655!2d-73.99290158459412!3d40.740461379328906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a1f3724bfd%3A0x37192dfcaa472df1!2s162+5th+Ave%2C+New+York%2C+NY+10010!5e0!3m2!1sen!2sus!4v1547776365705" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
+## Food
+All guests are registered, and will be able to find boxed lunches ready on the *11th floor* at 12:00pm on each day. Breakfast is available each day between 9:00-10:00am on the 11th floor each day as well, and snacks can be found through Flatiron. 
+
+## Access
+All registered guests can check-in with the front desk for access each day. 
+
 ## Lodging
 
 #### Hotels near the Flatiron Institute
