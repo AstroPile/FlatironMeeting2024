@@ -10,8 +10,8 @@ Below we have attached the tentative schedule for the hackathons. For more logis
 
 #### Monday (03/25):
 - 8:30am, *Breakfast*
-- 9:30am-12:00pm, **Hackathon Kick-Off!**: We'll introduce the hack, introduce ourselves (reminder to fill out the introduction slides!), go over guiding principles of the hack, and run some brainstorming sessions to set up the week. Location: *5th floor conference room*.
-- 12:00pm, *Lunch Break*
+- 9:30am-12:30pm, **Hackathon Kick-Off!**: We'll introduce the hack, introduce ourselves (reminder to fill out the introduction slides!), go over guiding principles of the hack, and run some brainstorming sessions to set up the week. Location: *5th floor conference room*.
+- 12:30pm, *Lunch Break*
 - 3:00pm, *Coffee*
 - 5:00pm-6:00pm, **First Wrap-Up**: For this first wrap-up, each group outlines their ***concrete plans*** from the brainstorming sessions for the hackathon, and advertises opportunities for involvement as well as flagging any help or expertise that might be needed. Location: *5th floor conference room*.
 - 6:00pm, day is over but participants are welcome to continue their hacks.
