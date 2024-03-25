@@ -28,4 +28,3 @@ Below we have attached the tentative schedule for the hackathons. For more logis
 ### Friday (03/29):
 - 8:30am, *Breakfast*
 - 10:30am-12:00pm: **Concluding Session**: Wrapping up the hackathon as a whole, going over our results and planning out the next steps. Thanks everyone for joining! Location: *6th floor conference room*.
-- 12:00pm: *Lunch*
