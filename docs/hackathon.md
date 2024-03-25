@@ -74,4 +74,5 @@ any resources you might have that may be of interests to other participants
 | Mike (S) | "Large Observation Models" | Gen models, HPC+DL | @smith42 |
 | Tom      | Multimodal foundation models | ML models and tools applied to galaxy images/spectra | @tom-hehir |
 | Brian    | LLMs | SDSS, galaxy spectra, UI/UX, NLP | @havok2063 |
-| Ben      | Simulation Based Inference | Time Domain Photometry/Spectroscopy | @benboyd97 |
+| Ben      | Simulation Based Inference | Time Domain 
+Photometric/Spectroscopic Data | @benboyd97 |
