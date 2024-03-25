@@ -13,7 +13,7 @@ Below we have attached the tentative schedule for the hackathons. For more logis
 - 9:30am-12:30pm, **Hackathon Kick-Off!**: We'll introduce the hack, introduce ourselves (reminder to fill out the introduction slides!), go over guiding principles of the hack, and run some brainstorming sessions to set up the week. Location: *5th floor conference room*.
 - 12:30pm-1:30pm, *Lunch Break*
 - 1:30pm-2:00pm, *Project Preparation*: Members will have this time free to assemble around project ideas to put forward.
-- 2:00pm-2:30pm, **Project Pitches**: Members will pitch specific projects and group themselves around the topics that most interest them. 
+- 2:00pm-2:30pm, **Project Pitches**: Members will pitch specific projects and group themselves around the topics that most interest them. Location: *5th floor conference room*
 - 3:00pm, *Coffee*
 - 5:00pm-6:00pm, **First Wrap-Up**: For this first wrap-up, each group outlines their ***concrete plans*** from the brainstorming sessions for the hackathon, and advertises opportunities for involvement as well as flagging any help or expertise that might be needed. Location: *5th floor conference room*.
 - 6:00pm, day is over but participants are welcome to continue their hacks.
