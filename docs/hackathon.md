@@ -75,3 +75,5 @@ any resources you might have that may be of interests to other participants
 | Tom      | Multimodal foundation models | ML models and tools applied to galaxy images/spectra | @tom-hehir |
 | Brian    | LLMs | SDSS, galaxy spectra, UI/UX, NLP | @havok2063 |
 | Ben      | Simulation Based Inference | Time Domain Photometric/Spectroscopic Data | @benboyd97 |
+| Maya     | LLMs, foundation models for stars | Spectroscopic Data, ML tools | @maja-jablonska |
+
