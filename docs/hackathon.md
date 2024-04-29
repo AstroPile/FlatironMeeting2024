@@ -76,4 +76,5 @@ any resources you might have that may be of interests to other participants
 | Brian    | LLMs | SDSS, galaxy spectra, UI/UX, NLP | @havok2063 |
 | Ben      | Simulation Based Inference | Time Domain Photometric/Spectroscopic Data | @benboyd97 |
 | Maya     | LLMs, foundation models for stars | Spectroscopic Data, ML tools | @maja-jablonska |
+| Erin     | Astrostatistics | Time Domain Photometric/Spectroscopic Data | @erinhay |
 
